@@ -19,3 +19,4 @@ Where you can find his curriculum/experience "vitae:" (document 4)
 
 And to Bryce Wilcox: http://web.archive.org/web/20010405052449/http://zooko.com/curriculum_vitae.html
 
+[![HitCount](http://hits.dwyl.io/TwistedIO/finding_satoshi.svg)](http://hits.dwyl.io/TwistedIO/finding_satoshi)
