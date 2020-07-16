@@ -1,5 +1,5 @@
 # Finding_Satoshi
-Locating Satoshi Nakamoto/the bitcoin creator and somehow proving it.
+Locating Satoshi Nakamoto bram darras/the bitcoin creator and somehow proving it.
 
 ## It was fairly easy-
 
